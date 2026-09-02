@@ -100,10 +100,7 @@ retail-performance-analytics/
 │   └── Retail_Performance_Analytics_Dashboard.twbx
 │
 ├── data/
-│   └── Raw and processed datasets
-│
-├── docs/
-│   └── Supporting documentation
+│   └── Dataset documentation; raw and processed datasets excluded due to file size
 │
 ├── images/
 │   └── Executive dashboard image
@@ -111,17 +108,11 @@ retail-performance-analytics/
 ├── notebooks/
 │   └── Analytical notebooks
 │
-├── presentation/
-│   └── Project presentation
-│
 ├── report/
 │   └── Executive analytical report
 │
 ├── sql/
 │   └── SQL analysis scripts
-│
-├── src/
-│   └── Source analysis scripts
 │
 ├── visuals/
 │   └── Supporting visualisations
