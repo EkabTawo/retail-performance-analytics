@@ -1,0 +1,30 @@
+# Data files
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Tableau temporary files
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
