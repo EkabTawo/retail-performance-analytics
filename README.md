@@ -181,6 +181,6 @@ Ekab-Osowo Tawo
 
 MSc Data Science | Data Analyst
 
-⁠LinkedIn 
+⁠LinkedIn - https://www.linkedin.com/in/ekab-osowo-tawo/
 
-⁠GitHub
+⁠GitHub - https://github.com/EkabTawo
