@@ -28,3 +28,6 @@ env/
 # IDE
 .vscode/
 .idea/
+
+!data/
+!data/README.md
