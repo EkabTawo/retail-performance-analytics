@@ -120,9 +120,7 @@ retail-performance-analytics/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
-
-
-⸻
+```
 
 Analytical Approach
 
